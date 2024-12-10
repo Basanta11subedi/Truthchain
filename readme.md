@@ -1,1 +1,1 @@
-# thi i the firt project on truthchain
+# this is the firt project on truthchain
